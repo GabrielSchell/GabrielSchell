@@ -1,4 +1,5 @@
 # 👋 Heyo, I’m @GabrielSchell
+[Heyo](https://i.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp)
 <br> 
 
 ## 👀 I’m interested in ...
