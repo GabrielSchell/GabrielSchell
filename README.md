@@ -14,8 +14,14 @@ General ingineering at ICAM, Vendée campus
 
 ## 🛠️ I’m working on ...
 Discords bots:
+- France Alliance's bot
+- Saint-Boteph (a V2 of an older bot)
+
 File Organizer
+
 OSH
+
+PayementAway
 <br>
 
 ## 📫 How to reach me ...
