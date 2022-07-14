@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @GabrielSchell
+# 👋 Heyo, I’m @GabrielSchell
 <br> 
 
 ## 👀 I’m interested in ...
@@ -12,14 +12,15 @@
 General ingineering at ICAM, Vendée campus 
 <br>
 
-## 💞️ I’m looking to collaborate on ...
-
+## 🛠️ I’m working on ...
+Discords bots:
+File Organizer
+OSH
 <br>
 
 ## 📫 How to reach me ...
+- [Mail](mailto:gabrielschell@vivaldi.net) | [Mail (via Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=)
 - [Linkedin](https://www.linkedin.com/in/gabriel-schell/)
-- [Mail (Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=) | [Mail](mailto:gabrielschell@vivaldi.net)
-
 <br>
 <!---
 GabrielSchell/GabrielSchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
