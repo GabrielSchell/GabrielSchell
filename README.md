@@ -1,29 +1,25 @@
 # 👋 Heyo, I’m @GabrielSchell
-[Heyo](https://i.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.webp)
-<br> 
+![Heyo](https://cdn.dribbble.com/users/400493/screenshots/2703191/media/6ec2729788b85235e00bed8c809e0cc0.gif)
 
 ## 👀 I’m interested in ...
 - Fighter jets
 - Ingineering
 - Informatics 
 - Graphical Arts
-<br>
 
 ## 🌱 I’m currently learning ...
-General ingineering at ICAM, Vendée campus 
-<br>
+General ingineering at ICAM, Vendée campus, in France
 
 ## 🛠️ I’m working on ...
-Discords bots:
-- France Alliance's bot
-- Saint-Boteph (a V2 of an older bot)
+France Alliance's Discord bot
 
-File Organizer
+[Saint-Boteph (a Discord bot)](https://github.com/GabrielSchell/Saint-Boteph)
+
+[File Organizer](https://github.com/GabrielSchell/File-Organizer)
 
 OSH
 
-PayementAway
-<br>
+[PayementAway](https://github.com/GabrielSchell/PayementAway)
 
 ## 📫 How to reach me ...
 - [Mail](mailto:gabrielschell@vivaldi.net) | [Mail (via Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=)
