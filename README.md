@@ -12,15 +12,11 @@
 General ingineering at ICAM, Vendée campus, in France
 
 ## 🛠️ I’m working on ...
-France Alliance's Discord bot
-
-[Saint-Boteph (a Discord bot)](https://github.com/GabrielSchell/Saint-Boteph)
-
-[File Organizer](https://github.com/GabrielSchell/File-Organizer)
-
-OSH
-
-[PayementAway](https://github.com/GabrielSchell/PayementAway)
+- France Alliance's Discord bot
+- [Saint-Boteph (a Discord bot)](https://github.com/GabrielSchell/Saint-Boteph)
+- [File Organizer](https://github.com/GabrielSchell/File-Organizer)
+- OSH
+- [PayementAway](https://github.com/GabrielSchell/PayementAway)
 
 ## 📫 How to reach me ...
 - [Mail](mailto:gabrielschell@vivaldi.net) | [Mail (via Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=)
