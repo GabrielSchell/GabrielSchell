@@ -1,5 +1,6 @@
 # 👋 Heyo, I’m @GabrielSchell
 ![Heyo](https://cdn.dribbble.com/users/400493/screenshots/2703191/media/6ec2729788b85235e00bed8c809e0cc0.gif)
+*[GIF by Latham Arnott](https://dribbble.com/shots/2703191-Hellooooooo)*
 
 ## 👀 I’m interested in ...
 - Fighter jets
