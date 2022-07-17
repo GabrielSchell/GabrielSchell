@@ -6,8 +6,8 @@
 ## 👀 I’m interested in ...
 - Fighter jets
 - Ingineering
-- Informatics 
-- Graphical Arts
+- IT 
+- Graphic Arts
 
 ## 🌱 I’m currently learning ...
 General ingineering at ICAM, Vendée campus, in France
