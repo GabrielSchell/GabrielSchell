@@ -10,7 +10,7 @@
 - Graphic Arts
 
 ## 🌱 I’m currently learning ...
-General ingineering at ICAM, Vendée campus, in France
+General engineering at ICAM, Vendée campus, in France
 
 ## 🛠️ I’m working on ...
 - France Alliance's Discord bot
