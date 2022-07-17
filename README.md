@@ -5,7 +5,7 @@
 
 ## 👀 I’m interested in ...
 - Fighter jets
-- Ingineering
+- Engineering
 - IT 
 - Graphic Arts
 
