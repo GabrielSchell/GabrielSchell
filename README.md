@@ -14,13 +14,9 @@ General engineering at ICAM, Vendée campus, in France
 
 ## 🛠️ My Project ...
 - [File Organizer](https://github.com/GabrielSchell/File-Organizer) is a small software that sort and place files based on their extension inside an organized dynamic folder.
+- [SKCD FBLB](https://github.com/GabrielSchell/SKCD-FBLB) (Skill Card - FabLab) is a script that takes data from a google sheet or a CSV (following a defined format)<br>and generate a card that display the levels of skills of each member of the FabLab.
 
 ## 📫 How to reach me ...
 - [Mail](mailto:gabrielschell@vivaldi.net) | [Mail (via Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=)
 - [Linkedin](https://www.linkedin.com/in/gabriel-schell/)
-<br>
-<!---
-GabrielSchell/GabrielSchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
