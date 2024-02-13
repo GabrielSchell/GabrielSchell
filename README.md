@@ -12,12 +12,8 @@
 ## 🌱 I’m currently learning ...
 General engineering at ICAM, Vendée campus, in France
 
-## 🛠️ My Projects ...
-- France Alliance's Discord bot, aimed to help an Airline Manager group of player managed documentations, HR, data & automation inside Discord.
-- Saint-Boteph, a Discord bot designed to help teachers make Discord a safer place for students.
+## 🛠️ My Project ...
 - [File Organizer](https://github.com/GabrielSchell/File-Organizer) is a small software that sort and place files based on their extension inside an organized dynamic folder.
-- OSH, also know has Open Source Hub, is a plan to navigate the complex network that is the open-source universe.
-- PayementAway notifies you when a client is coming but hasn't fully paid.
 
 ## 📫 How to reach me ...
 - [Mail](mailto:gabrielschell@vivaldi.net) | [Mail (via Gmail)](https://mail.google.com/mail/?view=cm&to=gabrielschell@vivaldi.net&su=&body=&bcc=)
